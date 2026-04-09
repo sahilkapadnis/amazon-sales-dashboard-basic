@@ -24,7 +24,7 @@ The goal was to understand how to build dashboards, use filters, and visualize s
 
 ## 📊 Dashboard Preview
 
-![Dashboard](assets/dashboard_overview.png)
+![Dashboard](assets/AMAZON DASHBOARD.png)
 
 ---
 
